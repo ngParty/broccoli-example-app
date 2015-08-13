@@ -3,3 +3,6 @@ node_modules
 
 # Broccoli
 tmp
+
+# JSPM
+jspm_packages
