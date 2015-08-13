@@ -6,3 +6,6 @@ tmp
 
 # JSPM
 jspm_packages
+
+# Deistribution
+dist
