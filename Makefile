@@ -14,6 +14,6 @@ dist:
 	${NODE_MODULES_BIN}/jspm bundle-sfx index dist/index.js
 
 clean:
-	${NODE_MODULES_BIN}/rimraf dist
+	- ${NODE_MODULES_BIN}/rimraf dist
 
 .PHONY: all setup serve dist clean
