@@ -16,4 +16,4 @@ dist:
 clean:
 	${NODE_MODULES_BIN}/rimraf dist
 
-.PHONY: setup serve dist clean
+.PHONY: all setup serve dist clean
